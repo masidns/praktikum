@@ -1,0 +1,28 @@
+/* h1{
+    text-align: center
+} */
+
+.jumbotron img{
+    width: 200px;
+    height: 200px;
+    border: 5px solid #666;
+    border-radius: 100%;
+}
+
+hr{
+width: 300px;
+border-top: solid #666;
+}
+
+section{
+    min-height: 500px;
+}
+
+.portfolio{
+    background-color: #eee;
+}
+
+/* .portfolio img{
+    width: 20%;
+    height: auto;
+} */
